@@ -5,7 +5,7 @@
 #
 # Author: Matt Kaufmann
 # Date Created: July 30th, 2019
-# Last Updated:
+# Last Updated: August 10th, 2019
 # Version used: python3
 #
 ############################### Install Packages ###############################
