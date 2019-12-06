@@ -1,3 +1,5 @@
+#Simple SIR (Susceptible-Infected-Recovered) dynamic transmission model using Julia
+
 #run the following only if this is the first time using this script/Julia
 #this will be slow
 using Pkg
